@@ -1,0 +1,51 @@
+
+
+h1, h2, h3 {
+    color: #2c3e50;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+blockquote {
+    border-left: 4px solid #2c3e50;
+    padding-left: 16px;
+    color: #7f8c8d;
+    font-style: italic;
+}
+
+p {
+    line-height: 1.6;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: auto;
+}
+
+#first {
+    font-style: italic;
+}
+
+#second {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#third {
+    color:#1717cc
+}
+
+#fourth {
+    font-size: 3rem
+}
+
+.steps {
+    list-style-type: decimal;
+    padding-left: 20px;
+    font-style: oblique;
+    color: hsl(0, 94%, 38%);
+}
